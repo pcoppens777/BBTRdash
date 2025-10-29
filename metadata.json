@@ -1,0 +1,5 @@
+{
+  "name": "NY Timeblocks Dashboard",
+  "description": "A financial dashboard to monitor New York trading session time blocks and macro event windows with real-time progress bars, countdowns, and alerts.",
+  "requestFramePermissions": []
+}
